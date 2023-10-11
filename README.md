@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanvir</h1>
 <h3 align="center">📚 Junior NLP Engineer | Turning Text into Insights | Passionate about Language and Data 🤖</h3>
+Aspiring NLP engineer, navigating the world of natural language processing. 💬 Passionate about harnessing AI to recognize and decorate human communique. 🤖 Exploring the realms of textual content evaluation and language fashions. Let's decode language together! 📚 #NLP #AI #CodeEnthusiast
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
