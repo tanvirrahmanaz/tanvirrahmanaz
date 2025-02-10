@@ -4,7 +4,7 @@
 <div align="center">
   <pre>
     ╔════════════════════════╗
-    ║   Welcome to my GitHub!║
+     Welcome to my GitHub profile!
     ╚════════════════════════╝
   </pre>
 </div>
