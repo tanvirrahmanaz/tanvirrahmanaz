@@ -1,4 +1,13 @@
-### Hi there, I'm **Tanvir Rahman** 👋
+# Hi there, I'm Tanvir Rahman 👋
+
+<!-- Simple text animation -->
+<div align="center">
+  <pre>
+    ╔════════════════════════╗
+    ║   Welcome to my GitHub!║
+    ╚════════════════════════╝
+  </pre>
+</div>
 
 #### 🚀  ML & NLP Enthusiast | Web Developer | Competitive Programmer
 
@@ -60,3 +69,8 @@ I am a **Computer Science and Engineering (CSE) student** at **National Universi
 
 Let's build something amazing together! 🚀
 
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50">
+  <strong>Thank you for visiting! 😊🚀</strong>
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50">
+</p>
