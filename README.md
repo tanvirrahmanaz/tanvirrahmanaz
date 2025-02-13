@@ -51,12 +51,14 @@ I am a **Computer Science and Engineering (CSE) student** at **National Universi
 ### 📈 GitHub Stats
 
 <p align="center">
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirrahmanaz&theme=radical" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-pi-azure.vercel.app?user=tanvirrahmanaz&theme=dark" alt="GitHub Streak"/>
+  </a>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirrahmanaz&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirrahmanaz&layout=compact&theme=radical" alt="Top Languages"/>
   <br>
 </p>
+
 
 ---
 
