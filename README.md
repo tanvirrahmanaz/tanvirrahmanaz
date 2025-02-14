@@ -1,27 +1,33 @@
 # Hi there, I'm Tanvir Rahman 👋
 
-<!-- Simple text animation -->
+<!-- Animated text -->
 <div align="center">
-  <pre>
-    ╔════════════════════════╗
-     Welcome to my GitHub profile!
-    ╚════════════════════════╝
-  </pre>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A80D&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;ML+%7C+NLP+%7C+Web+Development+%7C+CP;Always+learning+and+building+cool+stuff!">
 </div>
 
-#### 🚀  ML & NLP Enthusiast | Web Developer | Competitive Programmer
+---
+
+## 🚀 ML & NLP Enthusiast | Web Developer | Competitive Programmer
 
 I am a **Computer Science and Engineering (CSE) student** at **National University, Bangladesh**, passionate about building intelligent applications and solving real-world problems using **Machine Learning, NLP, and Web Development**.
 
 ---
 
-### 🔥 What I Do
+## 🔥 What I Do  
 
-- **Machine Learning & NLP**: Passionate about **Natural Language Processing**, **Deep Learning**, and **Computer Vision**. I have worked on projects like **weapon detection with YOLOv10**, **number plate OCR**, and **NLP-based comment analysis**.
-- **Web Development**: Skilled in **JavaScript, React, Node.js, and Django**. I have built **e-commerce platforms** and **revision tracking apps**.
-- **Competitive Programming**: I enjoy problem-solving and regularly practice on **LeetCode, Codeforces, and HackerRank**.
+🚀 **Machine Learning & NLP**  
+- Passionate about **Natural Language Processing**, **Deep Learning**, and **Computer Vision**.  
+- Worked on **weapon detection with YOLOv10**, **number plate OCR**, and **NLP-based comment analysis**.  
+
+🌍 **Web Development**  
+- Skilled in **JavaScript, React, Node.js, and Django**.  
+- Built **e-commerce platforms** and **revision tracking apps**.  
+
+🎯 **Competitive Programming**  
+- Enjoy problem-solving and regularly practice on **LeetCode, Codeforces, and HackerRank**.  
 
 ---
+
 
 ### 🛠️ Tech Stack
 
