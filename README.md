@@ -1,101 +1,150 @@
 # Hi there, I'm Tanvir Rahman 👋
-   
+**MERN Stack Developer** 🚀
+
 <!-- Animated text  -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A80D&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;ML+%7C+NLP+%7C+Web+Development+%7C+CP;Always+learning+and+building+cool+stuff!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A80D&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;MERN+Stack+Developer;Building+amazing+web+applications!;Always+learning+and+coding!">
 </div>   
 
 <img src="https://github.com/tanvirrahmanaz/tanvirrahmanaz/blob/main/0eac1c9f-ce95-4a6f-bca9-d5125bc4b5ca.jpeg">
 
-  
----   
-  
-## 🚀 ML & NLP Enthusiast | Web Developer | Competitive Programmer
+---
 
-I am a **Computer Science and Engineering (CSE) student** at **National University, Bangladesh**, passionate about building intelligent applications and solving real-world problems using **Machine Learning, NLP, and Web Development**.
-  
----   
-    
-## 🔥 What I Do  
+## 🚀 About Me
 
-🚀 **Machine Learning & NLP**  
-- Passionate about **Natural Language Processing**, **Deep Learning**, and **Computer Vision**.  
-- Worked on **weapon detection with YOLOv10**, **number plate OCR**, and **NLP-based comment analysis**.  
+I'm a passionate **Computer Science and Engineering student** at **National University, Bangladesh**, specializing in **MERN Stack Development**. I love building intelligent web applications that solve real-world problems and create meaningful user experiences. My journey in tech combines my enthusiasm for **Machine Learning, NLP, and Full-Stack Web Development** with a strong foundation in **competitive programming**.
 
-🌍 **Web Development**  
-- Skilled in **JavaScript, React, Node.js, and Django**.  
-- Built **e-commerce platforms** and **revision tracking apps**.  
+📧 **Email:** tanvirrahmanaz@gmail.com  
+📍 **Location:** Mirpur-14, Dhaka, Bangladesh 🇧🇩
 
-🎯 **Competitive Programming**  
-- Enjoy problem-solving and regularly practice on **LeetCode, Codeforces, and HackerRank**.  
+I'm always excited to collaborate on innovative projects and contribute to the tech community. Whether it's developing scalable web applications or exploring the latest in AI/ML, I'm driven by the challenge of turning complex problems into elegant solutions.
 
 ---
 
+## 🔥 Current Activities
 
-### 🛠️ Tech Stack   
-
-#### **💻 Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-#### **📊 Machine Learning & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-#### **🌐 Web Development**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-#### **⚡ Tools & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+• 🎓 **Course Management System** - Building a comprehensive MERN stack application for educational institutions  
+• 🏠 **Roommate Finder Platform** - Developing a smart matching system to connect compatible roommates  
+• 📚 **Continuous Learning** - Expanding my expertise in advanced React patterns and Node.js optimization  
+• 🤝 **Open Source Contributions** - Contributing to community projects and sharing knowledge
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Skills & Technologies
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-pi-azure.vercel.app?user=tanvirrahmanaz&theme=dark" alt="GitHub Streak"/>
-  </a>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvirrahmanaz&layout=compact&theme=radical" alt="Top Languages" />
-  <br>
+<div align="center">
+
+### **🎨 Frontend Development**
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&border-radius=50px">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&border-radius=50px">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&border-radius=50px">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&border-radius=50px">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&border-radius=50px">
 </p>
 
+### **⚙️ Backend Development**
+<p>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&border-radius=50px">
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&border-radius=50px">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&border-radius=50px">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&border-radius=50px">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&border-radius=50px">
+</p>
+
+### **🤖 Machine Learning & Data Science**
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&border-radius=50px">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&border-radius=50px">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&border-radius=50px">
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&border-radius=50px">
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white&border-radius=50px">
+</p>
+
+### **💻 Programming Languages**
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&border-radius=50px">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&border-radius=50px">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&border-radius=50px">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&border-radius=50px">
+</p>
+
+### **🛠️ Tools & Technologies**
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&border-radius=50px">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&border-radius=50px">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&border-radius=50px">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&border-radius=50px">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&border-radius=50px">
+</p>
+
+</div>
 
 ---
 
-### 📫 Connect with Me  
+## 📊 GitHub Statistics
 
-<div >
-  <a href="https://linkedin.com/in/tanvirrahmanaz">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<div align="center">
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats-pi-azure.vercel.app?user=tanvirrahmanaz&theme=radical&hide_border=true&border_radius=20" alt="GitHub Streak Stats" />
+
+  <br><br>
+  
+  <!-- GitHub Stats and Top Languages side by side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvirrahmanaz&show_icons=true&theme=radical&hide_border=true&border_radius=20&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvirrahmanaz&layout=compact&theme=radical&hide_border=true&border_radius=20" alt="Top Languages" width="48%" />
+
+  <br><br>
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvirrahmanaz&theme=radical&hide_border=true&border_radius=20" alt="Activity Graph" />
+
+  <br><br>
+  
+  <!-- Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanvirrahmanaz&theme=radical&border_radius=20" alt="Profile Summary" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/tanvirrahmanaz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border-radius=20px" alt="LinkedIn" />
   </a>
-  <a href="https://kaggle.com/tanvirrahmanaz">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
+  <a href="mailto:tanvirrahmanaz@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&border-radius=20px" alt="Email" />
   </a>
-  <a href="https://www.leetcode.com/tanvirrahmanaz">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <a href="https://github.com/tanvirrahmanaz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&border-radius=20px" alt="GitHub" />
   </a>
-  <a href="https://www.hackerrank.com/tanvirrahmanaz">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  <a href="https://kaggle.com/tanvirrahmanaz" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&border-radius=20px" alt="Kaggle" />
   </a>
-  <a href="mailto:tanvirrahmanaz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://www.leetcode.com/tanvirrahmanaz" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&border-radius=20px" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/tanvirrahmanaz" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&border-radius=20px" alt="HackerRank" />
   </a>
 </div>
 
+---
 
-Let's build something amazing together! 🚀
+## 📍 Location
+**Mirpur-14, Dhaka, Bangladesh** 🇧🇩
 
-<p align="center">
+---
+
+<div align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50">
-  <strong>Thank you for visiting! 😊🚀</strong>
+  <strong>Let's build something amazing together! 🚀</strong>
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50">
-</p>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanvirrahmanaz&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
