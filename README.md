@@ -103,7 +103,7 @@ I'm always excited to collaborate on innovative projects and contribute to the t
   <br><br>
   
   <!-- Profile Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanvirrahmanaz&theme=radical&border_radius=20" alt="Profile Summary" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanvirrahmanaz&theme=radical&border_radius=20" alt="Profile Summary" /> -->
 
 </div>
 
@@ -111,26 +111,70 @@ I'm always excited to collaborate on innovative projects and contribute to the t
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<div align="left">
+
   <a href="https://linkedin.com/in/tanvirrahmanaz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border-radius=20px" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <span>
+    <a href="https://linkedin.com/in/tanvirrahmanaz" target="_blank">
+      <img src="https://img.shields.io/badge/https://linkedin.com/in/tanvirrahmanaz-0077B5?style=flat-square&labelColor=0077B5&logo=linkedin&logoColor=white" />
+    </a>
+  </span>
+  <br/><br/>
+
   <a href="mailto:tanvirrahmanaz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&border-radius=20px" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <span>
+    <a href="mailto:tanvirrahmanaz@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/tanvirrahmanaz@gmail.com-D14836?style=flat-square&labelColor=D14836&logo=gmail&logoColor=white" />
+    </a>
+  </span>
+  <br/><br/>
+
   <a href="https://github.com/tanvirrahmanaz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&border-radius=20px" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <span>
+    <a href="https://github.com/tanvirrahmanaz" target="_blank">
+      <img src="https://img.shields.io/badge/https://github.com/tanvirrahmanaz-100000?style=flat-square&labelColor=100000&logo=github&logoColor=white" />
+    </a>
+  </span>
+  <br/><br/>
+
   <a href="https://kaggle.com/tanvirrahmanaz" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&border-radius=20px" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
+  <span>
+    <a href="https://kaggle.com/tanvirrahmanaz" target="_blank">
+      <img src="https://img.shields.io/badge/https://kaggle.com/tanvirrahmanaz-20BEFF?style=flat-square&labelColor=20BEFF&logo=kaggle&logoColor=white" />
+    </a>
+  </span>
+  <br/><br/>
+
   <a href="https://www.leetcode.com/tanvirrahmanaz" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&border-radius=20px" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+  <span>
+    <a href="https://www.leetcode.com/tanvirrahmanaz" target="_blank">
+      <img src="https://img.shields.io/badge/https://www.leetcode.com/tanvirrahmanaz-FFA116?style=flat-square&labelColor=FFA116&logo=leetcode&logoColor=black" />
+    </a>
+  </span>
+  <br/><br/>
+
   <a href="https://www.hackerrank.com/tanvirrahmanaz" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&border-radius=20px" alt="HackerRank" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
+  <span>
+    <a href="https://www.hackerrank.com/tanvirrahmanaz" target="_blank">
+      <img src="https://img.shields.io/badge/https://www.hackerrank.com/tanvirrahmanaz-2EC866?style=flat-square&labelColor=2EC866&logo=hackerrank&logoColor=white" />
+    </a>
+  </span>
+
 </div>
+
+
 
 ---
 
