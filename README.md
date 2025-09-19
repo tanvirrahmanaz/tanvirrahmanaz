@@ -9,7 +9,7 @@
 <img src="https://github.com/tanvirrahmanaz/tanvirrahmanaz/blob/main/github-header-image%20(2).png">
  
 --- 
-     
+      
 ## 🚀 About Me
 
 I'm a passionate **Computer Science and Engineering student** at **National University, Bangladesh**, specializing in **MERN Stack Development**. I love building intelligent web applications that solve real-world problems and create meaningful user experiences. My journey in tech combines my enthusiasm for **Machine Learning, NLP, and Full-Stack Web Development** with a strong foundation in **competitive programming**.
