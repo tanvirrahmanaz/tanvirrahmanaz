@@ -19,7 +19,7 @@ I'm a passionate **Computer Science and Engineering student** at **National Univ
 
 I'm always excited to collaborate on innovative projects and contribute to the tech community. Whether it's developing scalable web applications or exploring the latest in AI/ML, I'm driven by the challenge of turning complex problems into elegant solutions.
 
----
+--- 
 
 ## 🔥 Current Activities
 
