@@ -1,6 +1,6 @@
 # Hi there, I'm Tanvir Rahman 👋
 **MERN Stack Developer** 🚀
-                          
+                           
 <!-- Animated text  -->  
 <div align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A80D&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;MERN+Stack+Developer;Building+amazing+web+applications!;Always+learning+and+coding!">
