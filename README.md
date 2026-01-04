@@ -3,7 +3,7 @@
                              
 <!-- Animated text  -->  
 <div align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A80D&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;MERN+Stack+Developer;Building+amazing+web+applications!;Always+learning+and+coding!">
+   <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=500&size=22&pause=1000&color=F7A80D&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;MERN+Stack+Developer;Building+amazing+web+applications!;Always+learning+and+coding!">
 </div>     
     
 <img src="https://github.com/tanvirrahmanaz/tanvirrahmanaz/blob/main/github-header-image%20(2).png">
