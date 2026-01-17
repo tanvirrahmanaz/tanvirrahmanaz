@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 I am a **Computer Science & Engineering student** at **National University, Bangladesh**, focused on building **data-driven and AI-powered systems**.
-
+ 
 I am transitioning from a MERN Stack background into a **Machine Learning & Data Analytics–first profile**, with hands-on experience across **data preprocessing, model development, evaluation, and deployment**.
 
 I enjoy working on real-world problems where **data, machine learning, and software engineering intersect**, and my goal is to build **scalable, production-ready AI solutions** rather than just experimental notebooks.
