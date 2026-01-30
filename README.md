@@ -29,7 +29,7 @@ I enjoy working on real-world problems where **data, machine learning, and softw
 - ML model deployment using APIs  
 - Integrating ML systems with web applications  
 
----
+--- 
 
 ## 🧠 Technical Skills
 
