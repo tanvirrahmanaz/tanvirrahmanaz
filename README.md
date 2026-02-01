@@ -1,6 +1,6 @@
 # Hi there, I'm Tanvir Rahman 👋
 ### Machine Learning Engineer | Data Analyst | AI-Focused Full-Stack Developer
-   
+    
 <p align="center">  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Machine+Learning+%7C+Data+Analytics+%7C+AI;Computer+Vision+%7C+NLP+%7C+Deep+Learning;From+Data+to+Production+AI;ML+Models+in+Real+World+Apps">
 </p>
