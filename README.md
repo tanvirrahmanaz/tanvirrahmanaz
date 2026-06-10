@@ -1,131 +1,125 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:312e81,100:6366f1&height=265&section=header&text=Tanvir%20Rahman&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Building%20Intelligent%20AI%20Systems&descAlignY=64&descSize=20" alt="Header" />
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=800&center=true&vCenter=true&width=780&lines=Building+Intelligent+Systems;AI%2FML+Developer;Python+%7C+Deep+Learning+%7C+Automation;Turning+Ideas+into+AI+Reality" alt="Typing SVG" />
-  
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=tanvirrahmanaz&label=Profile%20Views&color=6366f1&style=for-the-badge&logo=star" alt="Profile Views" />
+ <img src="https://capsule-render.vercel.app/api?type=venom&color=0:312e81,100:6366f1&height=265&section=header&text=Tanvir%20Rahman&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Building%20Intelligent%20AI%20Systems&descAlignY=64&descSize=20" alt="Header" />
 </div>
-
-<br/>
 
 <div align="center">
-  <a href="https://github.com/tanvirrahmanaz">
-    <img src="https://img.shields.io/badge/GitHub-tanvirrahmanaz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tanvirrahmanaz/">
-    <img src="https://img.shields.io/badge/LinkedIn-Tanvir%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:tanvirrahmanaz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tanvirrahmanaz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=Turning+complex+problems+into+AI+solutions;Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+Automation;Building+production-ready+intelligent+systems" alt="Typing SVG" />
 </div>
-
-<hr/>
-
-### 👨‍💻 About Me
-
-**Hi, I'm Tanvir Rahman** — a passionate **AI/ML Developer** from **Bangladesh** dedicated to building intelligent, automated, and impactful solutions using Machine Learning and Deep Learning.
-
-I love turning complex problems into practical AI-powered applications. Currently focused on developing production-ready ML systems, intelligent agents, and automation workflows.
-
-- 🔭 **Currently working on**: AI Agents, RAG systems, and end-to-end ML pipelines
-- 🌱 **Currently learning**: Advanced Deep Learning, MLOps, LangGraph, and Agentic AI
-- 🤝 **Open to**: Collaborations, Internships, Freelance AI/ML projects
-- 📍 **Location**: Bangladesh
-- 📫 **Reach me**: [tanvirrahmanaz@gmail.com](mailto:tanvirrahmanaz@gmail.com)
-
-<br/>
-
-### 🚀 Available For
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AI%2FML%20Roles-Open-22c55e?style=for-the-badge" alt="Jobs"/>
-  <img src="https://img.shields.io/badge/Internships-Open-3b82f6?style=for-the-badge" alt="Internships"/>
-  <img src="https://img.shields.io/badge/Freelance-Available-f97316?style=for-the-badge" alt="Freelance"/>
-  <img src="https://img.shields.io/badge/Collaboration-Welcome-8b5cf6?style=for-the-badge" alt="Collaboration"/>
+  <a href="https://github.com/tanvirrahmanaz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/tanvirrahmanaz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:tanvirrahmanaz@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=tanvirrahmanaz&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 <br/>
 
-### 🛠️ Tech Stack
+---
 
-#### **Languages & Tools**
+## 👋 About Me
+
+I'm **Tanvir Rahman**, an **AI/ML Developer** from **Bangladesh** who enjoys taking messy, real-world problems and shaping them into clean, intelligent systems that actually run in production.
+
+I care less about building things that *look* smart and more about building things that *work* reliably — well-tested pipelines, agents that fail gracefully, and code other people can read six months later.
+
+```text
+Focus     →  Machine Learning · Deep Learning · AI Agents · RAG
+Mindset   →  Ship small, measure, iterate, document
+Goal      →  Build AI systems that are useful, reliable, and maintainable
+```
+
+- 🔭 **Building** — AI agents, RAG systems, and end-to-end ML pipelines
+- 🌱 **Learning** — MLOps, LangGraph, and agentic AI workflows
+- 🤝 **Open to** — AI/ML roles, internships, freelance work, and collaborations
+- 📫 **Reach me** — [tanvirrahmanaz@gmail.com](mailto:tanvirrahmanaz@gmail.com)
+
+<br/>
+
+## 🧭 What I Do
+
+| Area | What it means in practice |
+|------|---------------------------|
+| **Machine Learning** | Framing problems, training models, and evaluating them honestly |
+| **Deep Learning** | Working with neural networks for vision and language tasks |
+| **AI Agents & RAG** | Connecting LLMs to real data with retrieval and tool use |
+| **Automation** | Turning repetitive workflows into reliable Python pipelines |
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-#### **AI & Machine Learning**
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2563eb?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6B6B?style=for-the-badge&logo=pytorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-10B981?style=for-the-badge&logo=langchain&logoColor=white)
+**AI / Machine Learning**
 
-#### **Frameworks & Libraries**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1F2937?style=for-the-badge&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Data & Tools**
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-#### **Development Tools**
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <br/>
 
-### 🔥 Featured Projects
+## 📌 Featured Projects
 
-> *Project section coming soon with live demos and detailed case studies...*
+> Live demos and detailed write-ups are on the way. Here's the format each project will follow:
 
-<!-- 
-**Example Project Structure** (Uncomment when ready):
-
-**1. [Project Name](link)**
-- Short impactful description
-- Tech Stack: Python, PyTorch, LangChain, RAG
-- Key Achievement: ...
--->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔹 Project Name</h3>
+      <p>One line on the problem it solves and the result it delivered.</p>
+      <p><b>Stack:</b> Python · PyTorch · LangChain</p>
+      <p><a href="#">Code</a> · <a href="#">Demo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔹 Project Name</h3>
+      <p>One line on the problem it solves and the result it delivered.</p>
+      <p><b>Stack:</b> Python · TensorFlow · RAG</p>
+      <p><a href="#">Code</a> · <a href="#">Demo</a></p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvirrahmanaz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirrahmanaz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=tanvirrahmanaz&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tanvirrahmanaz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=6366f1&icon_color=818cf8" alt="Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirrahmanaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=tanvirrahmanaz&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=818cf8&currStreakLabel=6366f1" alt="Streak" />
 </div>
 
 <br/>
 
-### 🌟 Learning & Growth Focus (2026)
+## 🎯 Roadmap
 
-- Advanced Deep Learning & Computer Vision
-- MLOps & Model Deployment
-- Building Production-Grade AI Agents
-- RAG Systems & LLM Orchestration
-- Clean Code, Documentation & Open Source Contribution
-
-<br/>
-
-### 📍 Connect With Me
-
-<div align="center">
-  <a href="https://github.com/tanvirrahmanaz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/tanvirrahmanaz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:tanvirrahmanaz@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
+- [ ] Ship and document 3 portfolio projects with live demos
+- [ ] Deploy an end-to-end ML pipeline with monitoring (MLOps)
+- [ ] Build a production-grade agentic AI system with LangGraph
+- [ ] Make consistent open-source contributions
+- [ ] Write technical notes on what I learn along the way
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:7c3aed,50:1e40af,100:0f172a&height=120&section=footer&text=Build%20%7C%20Learn%20%7C%20Innovate&fontSize=18&fontColor=ffffff" alt="Footer"/>
+  <i>"Make it work, make it right, make it fast — in that order."</i>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:312e81,100:1e293b&height=110&section=footer&text=Build%20%C2%B7%20Learn%20%C2%B7%20Innovate&fontSize=16&fontColor=ffffff&fontAlignY=72" alt="Footer"/>
 </div>
